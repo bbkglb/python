@@ -1,2 +1,2 @@
 # python
-Includes projects written in Python
+Includes projects written in Python.
